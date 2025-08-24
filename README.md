@@ -1,6 +1,6 @@
 # Prerequisites
-# from git cli
-- JDK 21 
+# from git vscode
+- JDK 22
 - Maven 3.9 
 - MySQL 8
 
