@@ -1,5 +1,5 @@
 # Prerequisites
-# from git vscode
+# from git vscode1
 - JDK 22
 - Maven 3.9 
 - MySQL 8
